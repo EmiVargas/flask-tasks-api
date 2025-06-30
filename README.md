@@ -55,26 +55,10 @@ Este proyecto consiste en una API RESTful desarrollada con Flask para la gestió
 ### 2. Clonar el Repositorio
 
 ```bash
-git clone <>
-cd <>
+git clone <https://github.com/EmiVargas/flask-tasks-api.git>
 ```
 
-### 3. Crear un Entorno Virtual (Recomendado)
-
-Es una buena práctica trabajar dentro de un entorno virtual para aislar las dependencias del proyecto.
-
-```bash
-# Crear el entorno virtual
-python -m venv venv
-
-# Activarlo
-# En Windows:
-venv\Scripts\activate
-# En macOS/Linux:
-source venv/bin/activate
-```
-
-### 4. Instalar Dependencias
+### 3. Instalar Dependencias
 
 Instala todas las librerías necesarias con el siguiente comando:
 
