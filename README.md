@@ -78,9 +78,9 @@ En una terminal, ejecuta el siguiente comando para iniciar el servidor Flask. La
 python servidor.py
 ```
 Deberías ver una salida indicando que el servidor está corriendo en http://127.0.0.1:5000/.
+```bash
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-
-¡Deja esta terminal abierta!
+```
 ### 2. Ejecutar el Cliente de Consola
    Abre una nueva terminal (sin cerrar la del servidor) y ejecuta el cliente:
 
